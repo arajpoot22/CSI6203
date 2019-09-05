@@ -1,0 +1,81 @@
+
+{
+	"add a shebang": {
+		"prefix": "#!",
+		"body": ["#!/bin/bash"],
+		"description": "Add a shebang to script"
+	}
+}
+
+
+
+{
+	"Add black color": {
+		"prefix": "black",
+		"body": ["\033[30m"],
+		"description": "Addind black color"
+	}
+}
+
+
+{
+"Add red color": {
+	"prefix": "red",
+	"body": ["\033[31m"],
+	"description": "Addind black color"
+}
+}
+
+
+{
+"Add green color": {
+	"prefix": "green",
+	"body": ["\033[32m"],
+	"description": "Addind green color"
+}
+}
+
+
+{
+"Add brown color": {
+	"prefix": "brown",
+	"body": ["\033[33m"],
+	"description": "Addind brown color"
+}
+}
+
+
+{
+"Add blue color": {
+	"prefix": "blue",
+	"body": ["\033[34m"],
+	"description": "Addind blue color"
+}
+}
+
+
+{
+"Add purple color": {
+	"prefix": "purple",
+	"body": ["\033[35m"],
+	"description": "Addind purple color"
+}
+}
+
+
+{
+"Add cyan color": {
+	"prefix": "cyan",
+	"body": ["\033[36m"],
+	"description": "Addind cyan color"
+}
+}
+
+
+{
+"Add white color": {
+	"prefix": "white",
+	"body": ["\033[37m"],
+	"description": "Addind white color"
+}
+}
