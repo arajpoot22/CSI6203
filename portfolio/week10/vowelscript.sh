@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Your shopping list is as follows:"
+echo "Your Shopping list is as follows:"
 awk 'BEGIN {
 FS=","
 }
