@@ -1,0 +1,5 @@
+Bash is the default shell on most Unix-Like computer.
+It allows users to control computers through a command-Line interface.
+It acts as a scripting language that can be used to automate tasks.
+
+sed is a program that allows text to be parsed and modified in a powerful and effective away.
